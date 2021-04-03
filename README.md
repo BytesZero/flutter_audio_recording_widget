@@ -4,7 +4,7 @@
 
 > 需要说明的是按钮全部是用代码编写的，`圆环` 和 `圆形` 都是 `Container` 的属性效果，具体可以看文章或视频
 
-<img src="images/audio_recording.gif" alt="Dart" height="600"/>
+<img src="images/audio_recording.gif" alt="Gif" height="600"/>
 
 ### 🎥 视频地址 🎥
 
@@ -30,5 +30,7 @@
 
 ### ☕️喝杯咖啡☕️
 
-如果我分享的内容可以帮助到你，可以来杯咖啡支持我哦
+如果分享的内容可以帮助到你，可以来杯咖啡支持我哦
+
+<img src="https://github.com/yy1300326388/yy1300326388/blob/main/images/pay_qr_code/pay_qr_code.png" alt="Dart" width="480"/>
 
