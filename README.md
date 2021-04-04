@@ -9,6 +9,7 @@
 ### 🎥 视频地址 🎥
 
 - [YouTube](https://www.youtube.com/watch?v=1YMaxzePsso)
+- [BiliBili](https://www.bilibili.com/video/BV1mV411n7zT/)
 - [西瓜视频](https://www.ixigua.com/6947244756007125535?logTag=2bf348f3e5bacbe588df)
 
 ### 📒 对应文章 📒
