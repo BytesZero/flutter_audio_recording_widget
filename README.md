@@ -1,6 +1,6 @@
 ### 📖 项目介绍 📖
 
-这是我的第一个 Speed Code 视频项目，通过此项目可以学习到 `Container、AnimatedSwitcher、FadeTransition、ScaleTransition` 等组件的基础用法，最终我们将构建一个灵动的录音状态切换按钮
+这是我的第一个 Speed Code 视频项目，通过此项目可以学习到 `Container、AnimatedSwitcher、FadeTransition、ScaleTransition` 等组件的基础用法，最终我们将构建一个灵动动画的录音状态切换按钮
 
 > 这里按钮全部是用 `Container` 编写的，`圆环` 和 `圆形` 都是 `Container` 的属性效果，具体可以看下面的文章或视频
 
