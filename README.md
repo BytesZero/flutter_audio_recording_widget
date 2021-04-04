@@ -14,13 +14,6 @@
 
 - [语雀](https://www.yuque.com/docs/share/83e1400b-5a0d-4b78-a7a9-55609f42c2d3)
 
-### 👍 推荐软件 👍
-
-- [加速访问 GitHub 和下载编译依赖的🪜](https://bit.ly/3fcL0ND)
-- [我是使用它查高清的 YouTube 视频来学习 Flutter ](https://bit.ly/3fcL0ND)
-
-> 一切推荐旨在学习，请勿用于非法用途
-
 ### ☀️ 我的经历 ☀️
 
 - 15 年～18 年，使用 `Android` 原生做智能硬件相关的  App 研发
@@ -32,5 +25,5 @@
 
 如果分享的内容可以帮助到你，可以来杯咖啡支持我哦
 
-<img src="https://github.com/yy1300326388/yy1300326388/blob/main/images/pay_qr_code/pay_qr_code.png" alt="Dart" width="480"/>
+<img src="https://github.com/yy1300326388/yy1300326388/blob/main/images/pay_qr_code/pay_qr_code.png" alt="QRcode" width="480"/>
 
